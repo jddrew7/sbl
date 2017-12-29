@@ -1,3 +1,3 @@
 <?php
-echo "SBL首頁";
+echo "SBL首頁 is here";
 ?>
