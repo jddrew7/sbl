@@ -1,3 +1,3 @@
 <?php
-SBL首頁
+echo "SBL首頁";
 ?>
